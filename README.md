@@ -1,0 +1,2 @@
+# faraj
+TUGAS AVL TREE 
